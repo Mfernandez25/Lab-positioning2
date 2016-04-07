@@ -1,0 +1,24 @@
+.azul{
+	background-color: blue;
+	height: 200px;
+	width: 200px;
+	position: relative;
+	padding: 100px;
+	margin: 100px auto;
+}
+.verde{
+	background-color: green;
+	height: 100%;
+	width: 100%;
+	position: static;
+
+}
+.negro{
+	background-color: black;
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	
+}
